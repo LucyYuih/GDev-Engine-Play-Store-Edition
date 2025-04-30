@@ -8,7 +8,7 @@ if (typeof gdjs.evtsExt__GetPropertiesData__ReturnScaleMode !== "undefined") {
 gdjs.evtsExt__GetPropertiesData__ReturnScaleMode = {};
 
 
-gdjs.evtsExt__GetPropertiesData__ReturnScaleMode.userFunc0x9dc3d8 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
+gdjs.evtsExt__GetPropertiesData__ReturnScaleMode.userFunc0x5ec0b78 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
 "use strict";
 eventsFunctionContext.returnValue = runtimeScene.getGame().getGameData().properties.scaleMode;
 };
@@ -17,7 +17,7 @@ gdjs.evtsExt__GetPropertiesData__ReturnScaleMode.eventsList0 = function(runtimeS
 {
 
 
-gdjs.evtsExt__GetPropertiesData__ReturnScaleMode.userFunc0x9dc3d8(runtimeScene, typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined);
+gdjs.evtsExt__GetPropertiesData__ReturnScaleMode.userFunc0x5ec0b78(runtimeScene, typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined);
 
 }
 
